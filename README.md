@@ -12,3 +12,8 @@ This is a python program that generates a choropleth for the Covid-19 cases in N
 2. Results
     - ![Results!](newplot.png)
 
+
+### References
+
+- All statistics are being pulled from NY Times: https://raw.githubusercontent.com/nytimes/covid-19-data/master/live/us-counties.csv
+
