@@ -10,5 +10,5 @@ This is a python program that generates a choropleth for the Covid-19 cases in N
     - Currently using python 3.9 to run this 
 
 2. Results
-    - 
+    - ![Results!](newplot.png)
 
